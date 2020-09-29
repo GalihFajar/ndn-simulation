@@ -25,7 +25,7 @@ Time	Node	Interface	Type	Packets	Kilobytes	PacketsRaw	KilobytesRaw
 1	Src5	combined	Drop	0	0	0	0
 1	Dst1	combined	Drop	0	0	0	0
 1	Dst2	combined	Drop	0	0	0	0
-1	Dst3	combined	Drop	585	612	732	765.301
+1	Dst3	combined	Drop	0	0	0	0
 2	Rtr1	combined	Drop	0	0	0	0
 2	Rtr2	combined	Drop	0	0	0	0
 2	Rtr3	combined	Drop	0	0	0	0
@@ -50,9 +50,9 @@ Time	Node	Interface	Type	Packets	Kilobytes	PacketsRaw	KilobytesRaw
 2	Src3	combined	Drop	0	0	0	0
 2	Src4	combined	Drop	0	0	0	0
 2	Src5	combined	Drop	0	0	0	0
-2	Dst1	combined	Drop	2	2	3	3.13477
+2	Dst1	combined	Drop	0	0	0	0
 2	Dst2	combined	Drop	0	0	0	0
-2	Dst3	combined	Drop	762	797	807	844.067
+2	Dst3	combined	Drop	0	0	0	0
 3	Rtr1	combined	Drop	0	0	0	0
 3	Rtr2	combined	Drop	0	0	0	0
 3	Rtr3	combined	Drop	0	0	0	0
@@ -79,7 +79,7 @@ Time	Node	Interface	Type	Packets	Kilobytes	PacketsRaw	KilobytesRaw
 3	Src5	combined	Drop	0	0	0	0
 3	Dst1	combined	Drop	0	0	0	0
 3	Dst2	combined	Drop	0	0	0	0
-3	Dst3	combined	Drop	806	842	817	854.49
+3	Dst3	combined	Drop	0	0	0	0
 4	Rtr1	combined	Drop	0	0	0	0
 4	Rtr2	combined	Drop	0	0	0	0
 4	Rtr3	combined	Drop	0	0	0	0
@@ -106,7 +106,7 @@ Time	Node	Interface	Type	Packets	Kilobytes	PacketsRaw	KilobytesRaw
 4	Src5	combined	Drop	0	0	0	0
 4	Dst1	combined	Drop	0	0	0	0
 4	Dst2	combined	Drop	0	0	0	0
-4	Dst3	combined	Drop	807	844	808	845.09
+4	Dst3	combined	Drop	0	0	0	0
 5	Rtr1	combined	Drop	0	0	0	0
 5	Rtr2	combined	Drop	0	0	0	0
 5	Rtr3	combined	Drop	0	0	0	0
@@ -133,7 +133,7 @@ Time	Node	Interface	Type	Packets	Kilobytes	PacketsRaw	KilobytesRaw
 5	Src5	combined	Drop	0	0	0	0
 5	Dst1	combined	Drop	0	0	0	0
 5	Dst2	combined	Drop	0	0	0	0
-5	Dst3	combined	Drop	833	871	840	878.549
+5	Dst3	combined	Drop	0	0	0	0
 6	Rtr1	combined	Drop	0	0	0	0
 6	Rtr2	combined	Drop	0	0	0	0
 6	Rtr3	combined	Drop	0	0	0	0
@@ -160,7 +160,7 @@ Time	Node	Interface	Type	Packets	Kilobytes	PacketsRaw	KilobytesRaw
 6	Src5	combined	Drop	0	0	0	0
 6	Dst1	combined	Drop	0	0	0	0
 6	Dst2	combined	Drop	0	0	0	0
-6	Dst3	combined	Drop	820	857	817	854.488
+6	Dst3	combined	Drop	0	0	0	0
 7	Rtr1	combined	Drop	0	0	0	0
 7	Rtr2	combined	Drop	0	0	0	0
 7	Rtr3	combined	Drop	0	0	0	0
@@ -187,7 +187,7 @@ Time	Node	Interface	Type	Packets	Kilobytes	PacketsRaw	KilobytesRaw
 7	Src5	combined	Drop	0	0	0	0
 7	Dst1	combined	Drop	0	0	0	0
 7	Dst2	combined	Drop	0	0	0	0
-7	Dst3	combined	Drop	846	885	853	892.152
+7	Dst3	combined	Drop	0	0	0	0
 8	Rtr1	combined	Drop	0	0	0	0
 8	Rtr2	combined	Drop	0	0	0	0
 8	Rtr3	combined	Drop	0	0	0	0
@@ -214,7 +214,7 @@ Time	Node	Interface	Type	Packets	Kilobytes	PacketsRaw	KilobytesRaw
 8	Src5	combined	Drop	0	0	0	0
 8	Dst1	combined	Drop	0	0	0	0
 8	Dst2	combined	Drop	0	0	0	0
-8	Dst3	combined	Drop	831	869	828	866.043
+8	Dst3	combined	Drop	0	0	0	0
 9	Rtr1	combined	Drop	0	0	0	0
 9	Rtr2	combined	Drop	0	0	0	0
 9	Rtr3	combined	Drop	0	0	0	0
@@ -241,4 +241,4 @@ Time	Node	Interface	Type	Packets	Kilobytes	PacketsRaw	KilobytesRaw
 9	Src5	combined	Drop	0	0	0	0
 9	Dst1	combined	Drop	0	0	0	0
 9	Dst2	combined	Drop	0	0	0	0
-9	Dst3	combined	Drop	815	852	811	848.174
+9	Dst3	combined	Drop	0	0	0	0
